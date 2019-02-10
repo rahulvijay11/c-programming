@@ -5,7 +5,11 @@ int main()
     scanf("%c",&ch);
     if((ch>=65&&ch<=90)||(ch>=97&&ch<=122))
     {
-        printf("Alphabets");
+        printf("Alphabet");
     }
+    else
+    
+    printf("No");
+    
 return 0;
 }
